@@ -1,6 +1,3 @@
----
-permalink: /index.html
----
 
 # The Tactile theme
 
